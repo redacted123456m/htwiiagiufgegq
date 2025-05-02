@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/web/uv/service/',
-    bare: 'https://bare-sigma.yourmom.us.kg/',
+    bare: 'https://uv.bypass.vip/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/web/uv/uv.handler.js',
